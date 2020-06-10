@@ -1,5 +1,5 @@
 i = 1
-while i <= 3:
+while i <= 50:
     print(i)
-    i += 1
+    i = 3 * i + 1
 print("Programa terminado")
